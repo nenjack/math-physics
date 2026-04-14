@@ -1,10 +1,10 @@
-# identity rule
+# division by itself is always one
 
 ```math
 \frac{X}{X} = 1
 ```
 
-## division by 0
+## division by zero is always infinity
 
 ### nothing of nothing
 
@@ -12,7 +12,7 @@
 \frac{0}{0} = 1
 ```
 
-## division by infinity
+## division by infinity is always zero
 
 ### everything of everything
 
@@ -20,13 +20,15 @@
 \frac{\infty}{\infty} = 1
 ```
 
-## edge case tests
+## no slices of infinite pizza
 
 ### everything of nothing
 
 ```math
 \frac{0}{\infty} = ?
 ```
+
+## infinite slices of no pizza
 
 ### nothing of everything
 
