@@ -1,4 +1,4 @@
-## anything is itself
+## being itself
 
 ```math
 \frac{X}{X} = 1
